@@ -1,5 +1,5 @@
 ## Hi there! I'm @naleskerov (Nazim Aleskerov) 👋
-### I'm beginner Front-end developer from Moscow 🇷🇺
+### I'm Front-end developer from Moscow 🇷🇺
 
 <!--
 **naleskerov/naleskerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
